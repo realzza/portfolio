@@ -4,3 +4,5 @@ assets/files/
 assets/vendor/
 assets/img/
 presento
+.DS_Store
+assets/.DS_Store
