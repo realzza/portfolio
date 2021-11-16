@@ -980,8 +980,7 @@ section {
 }
 
 /* for paragraph */
-p,
-ul {
+.text-justify {
   text-align: justify;
 }
 
@@ -998,6 +997,9 @@ a {
 
 /* my avatar */
 .avatar-me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 8px;
   box-shadow: 0 0px 8px 0 rgb(128 128 128 / 20%),
     0 6px 20px 0 rgb(128 128 128 / 20%);
