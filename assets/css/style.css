@@ -1006,3 +1006,7 @@ a {
   max-width: 95%;
   height: auto;
 }
+
+#program-language-img {
+  margin-right: 1em;
+}
